@@ -1,0 +1,9 @@
+.env
+config.js
+node_modules
+.idea
+npm-debug.log
+.DS_Store
+IBJts
+META-INF
+.zip
